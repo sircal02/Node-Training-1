@@ -1,0 +1,9 @@
+body{
+
+    /*this is how to get the background color*/
+  /*  background-color: #ffff00;*/
+background-image: url(./Images/download.jpg) ;
+background-repeat: no-repeat;
+background-size: cover;
+    color: red;
+}
